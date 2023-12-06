@@ -34,4 +34,4 @@ We welcome contributions to the About Us section of Learashu's static website. I
 4. Submit a pull request, describing the changes you've made and their purpose.
 
 We appreciate your contributions to making the About Us section more informative and visually appealing.
-
+live demo https://duresaguye.github.io/learshu-About-Us/
