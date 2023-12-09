@@ -24,14 +24,5 @@ The About Us section consists of the following components:
 
 7. **Educational Background**: Mentions the educational institution associated with the developers.
 
-## Contributing
 
-We welcome contributions to the About Us section of Learashu's static website. If you would like to contribute, please follow these guidelines:
-
-1. Fork the repository and create a new branch for your changes.
-2. Make your modifications to the HTML and CSS files to enhance the About Us section.
-3. Ensure your code follows best practices and is well-structured.
-4. Submit a pull request, describing the changes you've made and their purpose.
-
-We appreciate your contributions to making the About Us section more informative and visually appealing.
 live demo https://duresaguye.github.io/learshu-About-Us/
